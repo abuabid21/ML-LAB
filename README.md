@@ -1,1 +1,1 @@
-In lab 1 i explored how git and github works and created an account
+In lab 3 we explored EDA techniques and Applied them to the provided dataset
